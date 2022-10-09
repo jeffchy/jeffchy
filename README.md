@@ -3,7 +3,7 @@
 ### 👋 Hi, I’m Chengyue Jiang @jeffchy
 - 👀 I’m a CS PhD student in ShanghaiTech University, supervised by Prof. Kewei Tu.
 - 🌱 currently doing NLP research.
-- 📫 Personal website: [jeffchy.github.io](jeffchy.github.io)
+- ✨ Personal website: [jeffchy.github.io](jeffchy.github.io)
 - 📫 E-mail me: jiangchy@shanghaitech.edu.cn
 
 <!---
