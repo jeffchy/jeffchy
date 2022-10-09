@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Chengyue Jiang @jeffchy
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jeffchy&show_icons=true">
+
+### 👋 Hi, I’m Chengyue Jiang @jeffchy
 - 👀 I’m a CS PhD student in ShanghaiTech University, supervised by Prof. Kewei Tu.
-- 🌱 I’m currently doing NLP research.
+- 🌱 currently doing NLP research.
 - 📫 Personal website: [jeffchy.github.io](jeffchy.github.io)
 - 📫 E-mail me: jiangchy@shanghaitech.edu.cn
 
