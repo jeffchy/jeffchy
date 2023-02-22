@@ -4,7 +4,7 @@
 ### 👋 Hi, I’m Chengyue Jiang @jeffchy
 - 👀 I’m a **4th** year CS PhD student in ShanghaiTech University, supervised by Prof. Kewei Tu.
 - 🌱 currently doing NLP research. My research interests: Symbolic + Neural, Information Extraction, and Knowledge in Large Language Models.
-- ✨ Personal website: [jeffchy.github.io](jeffchy.github.io)
+- ✨ **Personal website** for more details: [jeffchy.github.io](jeffchy.github.io)
 - 📫 E-mail me: jiangchy@shanghaitech.edu.cn
 - ✨ **I'm open to the job market this Autumn, feel free to contact me!**
 
