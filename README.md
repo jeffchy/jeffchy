@@ -2,7 +2,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jeffchy&show_icons=true">
 
 ### 👋 Hi, I’m Chengyue Jiang @jeffchy
-- 👀 I’m a **4th** year CS PhD student in ShanghaiTech University, supervised by Prof. Kewei Tu.
+- 👀 I’m a **last** year CS PhD student in ShanghaiTech University, supervised by Prof. Kewei Tu.
 - 🌱 currently doing NLP research. My research interests: Symbolic + Neural, Information Extraction, Knowledge in Large Language Models, and Training **decoder-only LLMs**.
 - ✨ **Personal website** for more details: [jeffchy.github.io](https://jeffchy.github.io)
 - 📫 E-mail me: jiangchy@shanghaitech.edu.cn
