@@ -6,7 +6,7 @@
 - 🌱 currently doing NLP research. My research interests: Symbolic + Neural, Information Extraction, Knowledge in Large Language Models, and Training **decoder-only LLMs**.
 - ✨ **Personal website** for more details: [jeffchy.github.io](https://jeffchy.github.io)
 - 📫 E-mail me: jiangchy@shanghaitech.edu.cn
-- ✨ **I'm open to the job market this Autumn, feel free to contact me!**
+- ✨ currently having my internship in **LUMI NLP Team @ Mihoyo**
 
 <!---
 jeffchy/jeffchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
